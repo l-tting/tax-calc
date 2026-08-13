@@ -79,3 +79,12 @@ hardware management
 planning -> requirements gathering => development  -> deploy -> maintain 
 
 www.janedoe.netlify.com
+*Task on Tax Calculator*
+1.Make sure all functions are working as expected and output to table working correctly
+2.Style index.html with your own custom designs 
+  -> Have a navbar with links : 
+    => Home (where you input basic salary & benefits and output tax values)
+    => My Tax (Display info about Kenyan taxes -> nhif bands, nhdf calculation,nssf rates,payee rates, finance bill)
+    => ITax (on clicking this take a user to KRA's page for possible tax filing)
+
+-> A good footer with copyright message e.g lesley-tax@2026 CopyRight
