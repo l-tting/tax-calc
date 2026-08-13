@@ -56,3 +56,26 @@ N/B:- Any value coming from user input is always a string
 
 *After an event occurs, the default behaviour of the browser is to refresh* -> to prevent this use the 
 function *event.preventDefault()*
+
+*Netlify* -> a paas that enables developers deploy applications easily without worrying about 
+hardware management
+
+*Cloud service models*
+1.*Paas* 
+  -> Platform as a service
+  -> Enable developers deploy applications without having to manage servers 
+  -> examples => vercel , netlify , heroku
+2.*Iaas*
+  -> Infrastructure as a service
+  -> allows developers to deploy apps and manage their servers
+  -> e.g deploying an app on AWS
+3.*Saas*
+  -> software as an application
+  -> ready to use software deployed on a cloud platform
+  -> how the application is deployed is abstracted / hidden away from the end user 
+  -> e.g. Google drive, icloud, github
+
+
+planning -> requirements gathering => development  -> deploy -> maintain 
+
+www.janedoe.netlify.com
